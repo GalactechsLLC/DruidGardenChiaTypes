@@ -9,5 +9,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DruidGardenBase" />
+    <orderEntry type="library" name="google.code.gson" level="application" />
+    <orderEntry type="library" name="supranational.blst" level="application" />
+    <orderEntry type="library" name="bouncycastle.bcprov.jdk15on" level="application" />
   </component>
 </module>
